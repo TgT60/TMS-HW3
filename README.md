@@ -1,4 +1,6 @@
 # TMS-HW3
-Develop commite 1
-Feature commite 1
-Feature commite 2
+Develop commit 1.1
+Feature commit 1.1
+Feature commit 1.2
+Feature commit 2.1
+Feature commit 2.2
